@@ -1,0 +1,14 @@
+{
+  "name": "music-manifests",
+  "version": "0.0.0",
+  "description": "The music manifests",
+  "main": "src/main.js",
+  "scripts": {
+    "generate": "node src/main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@coolplaylin/utilities": "^0.0.2"
+  }
+}

@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@coolplaylin/utilities':
+    specifier: ^0.0.2
+    version: 0.0.2
+
+packages:
+
+  /@coolplaylin/utilities@0.0.2:
+    resolution: {integrity: sha512-NtK27e1SeivcH8gn8TxtmVG1/I7qJaBl8oUrirGhBw3XXvD4zfp5GC0Ji1wD1lWlQUwyPfCjVf7B1UWgwz5h/w==}
+    dev: false

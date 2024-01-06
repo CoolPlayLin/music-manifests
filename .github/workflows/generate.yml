@@ -1,0 +1,33 @@
+name: generate music manifest
+on:
+  workflow_dispatch:
+
+jobs:
+  generate_music_manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.1.1
+        with:
+          token: ${{ secrets.COOLPLAYLIN_BOT_TOKEN }}
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: "21"
+      - name: Setup Pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: "8.6.0"
+      - name: Install dependencies
+        run: |
+          git config --global user.email 130831920+coolplaylinbot@users.noreply.github.com
+          git config --global user.name coolplaylinbot
+          pnpm install
+      - name: Generate music manifest
+        run: pnpm run generate
+      - name: Apply changes
+        run: |
+          git add .
+          git commit -m "feat(manifest): update music manifest"
+          git push origin master --force
