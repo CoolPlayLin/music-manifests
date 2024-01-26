@@ -4,7 +4,8 @@
   "description": "The music manifests",
   "main": "src/main.js",
   "scripts": {
-    "generate": "node src/main.js"
+    "generate": "node src/main.js",
+    "display": "node src/display.js"
   },
   "author": "",
   "license": "MIT",

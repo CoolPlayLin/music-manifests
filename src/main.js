@@ -13,5 +13,9 @@ fs.writeFileSync(
       utilities.generateUniqueCombinations(manifests, 3),
       872
     ),
+    ...utilities.selectMusic(
+      utilities.generateUniqueCombinations(manifests, 5),
+      872
+    ),
   ])
 );
