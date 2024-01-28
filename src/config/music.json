@@ -1,147 +1,44 @@
 [
-  {
-    "songName": "Ferrari",
-    "length": 265,
-    "singer": "Bebe Rexha"
-  },
-  {
-    "songName": "句号(0.8x)",
-    "singer": "邓紫棋",
-    "length": 294
-  },
-  {
-    "songName": "我知道你",
-    "singer": "熊雨珂",
-    "length": 188
-  },
+  { "songName": "Ferrari", "length": 265, "singer": "Bebe Rexha" },
+  { "songName": "句号(0.8x)", "singer": "邓紫棋", "length": 294 },
+  { "songName": "我知道你", "singer": "熊雨珂", "length": 188 },
   {
     "songName": "Deyang Gatal Gatal Sa (Remix)",
     "singer": "Dj Desa",
     "length": 220
   },
-  {
-    "songName": "我想念",
-    "singer": "汪苏泷",
-    "length": 224
-  },
-  {
-    "songName": "你要的全拿走",
-    "singer": "胡彦斌",
-    "length": 299
-  },
-  {
-    "songName": "圣诞星",
-    "singer": "周杰伦",
-    "length": 182
-  },
-  {
-    "songName": "麦恩莉",
-    "singer": "方大同",
-    "length": 288
-  },
-  {
-    "songName": "月光",
-    "singer": "胡彦斌",
-    "length": 272
-  },
-  {
-    "songName": "桃花诺",
-    "singer": "邓紫棋",
-    "length": 219
-  },
-  {
-    "songName": "堕",
-    "singer": "zyboy忠宇",
-    "length": 183
-  },
-  {
-    "songName": "妈妈的话",
-    "singer": "zyboy忠宇",
-    "length": 170
-  },
-  {
-    "songName": "盗将行",
-    "singer": "花粥",
-    "length": 198
-  },
-  {
-    "singer": "요아리",
-    "songName": "TRUE",
-    "length": 192
-  },
-  {
-    "singer": "双笙",
-    "songName": "霜雪千年",
-    "length": 246
-  },
-  {
-    "songName": "漫长的告白",
-    "singer": "双笙",
-    "length": 288
-  },
-  {
-    "songName": "出师表",
-    "singer": "奇然",
-    "length": 361
-  },
-  {
-    "songName": "不枉",
-    "singer": "汪小敏",
-    "length": 212
-  },
-  {
-    "songName": "是你",
-    "singer": "梦然",
-    "length": 223
-  },
-  {
-    "songName": "You & Me",
-    "singer": "JENNIE",
-    "length": 179
-  },
-  {
-    "singer": "方大同",
-    "songName": "特别的人",
-    "length": 259
-  },
-  {
-    "singer": "nobodyknows+",
-    "songName": "Hero's Come Back!!",
-    "length": 274
-  },
-  {
-    "singer": "MOB CHOIR",
-    "songName": "99",
-    "length": 237
-  },
-  {
-    "singer": "MOB CHOIR",
-    "songName": "1",
-    "length": 229
-  },
-  {
-    "singer": "Zealot周星星",
-    "songName": "我看过 (1.3x)",
-    "length": 126
-  },
-  {
-    "singer": "很美味",
-    "songName": "april encounter",
-    "length": 208
-  },
-  {
-    "singer": "程小时/陆光/乔岑",
-    "songName": "3,2,1!",
-    "length": 242
-  },
-  {
-    "songName": "CashMoon",
-    "singer": "BACK SEAT",
-    "length": 200
-  },
-  {
-    "songName": "光亮",
-    "singer": "周深",
-    "length": 288
-  }
+  { "songName": "我想念", "singer": "汪苏泷", "length": 224 },
+  { "songName": "你要的全拿走", "singer": "胡彦斌", "length": 299 },
+  { "songName": "圣诞星", "singer": "周杰伦", "length": 182 },
+  { "songName": "麦恩莉", "singer": "方大同", "length": 288 },
+  { "songName": "月光", "singer": "胡彦斌", "length": 272 },
+  { "songName": "桃花诺", "singer": "邓紫棋", "length": 219 },
+  { "songName": "堕", "singer": "zyboy忠宇", "length": 183 },
+  { "songName": "妈妈的话", "singer": "zyboy忠宇", "length": 170 },
+  { "songName": "盗将行", "singer": "花粥", "length": 198 },
+  { "singer": "요아리", "songName": "TRUE", "length": 192 },
+  { "singer": "双笙", "songName": "霜雪千年", "length": 246 },
+  { "songName": "漫长的告白", "singer": "双笙", "length": 288 },
+  { "songName": "出师表", "singer": "奇然", "length": 361 },
+  { "songName": "不枉", "singer": "汪小敏", "length": 212 },
+  { "songName": "是你", "singer": "梦然", "length": 223 },
+  { "songName": "You & Me", "singer": "JENNIE", "length": 179 },
+  { "singer": "方大同", "songName": "特别的人", "length": 259 },
+  { "singer": "nobodyknows+", "songName": "Hero's Come Back!!", "length": 274 },
+  { "singer": "MOB CHOIR", "songName": "99", "length": 237 },
+  { "singer": "MOB CHOIR", "songName": "1", "length": 229 },
+  { "singer": "Zealot周星星", "songName": "我看过 (1.3x)", "length": 126 },
+  { "singer": "很美味", "songName": "april encounter", "length": 208 },
+  { "singer": "程小时/陆光/乔岑", "songName": "3,2,1!", "length": 242 },
+  { "songName": "CashMoon", "singer": "BACK SEAT", "length": 200 },
+  { "songName": "光亮", "singer": "周深", "length": 288 },
+  { "songName": "我记得", "singer": "赵雷", "length": 329 },
+  { "songName": "兰亭序", "singer": "周杰伦", "length": 423 },
+  { "songName": "稻香", "singer": "周杰伦", "length": 223 },
+  { "songName": "烟花易冷", "singer": "周杰伦", "length": 263 },
+  { "songName": "十年人间", "singer": "李常超", "length": 277 },
+  { "songName": "十年人间", "singer": "旺卡小乔", "length": 211 },
+  { "songName": "毒药（1.2x）", "singer": "SN", "length": 239 },
+  { "songName": "Letting Go", "singer": "蔡健雅", "length": 263 },
+  { "songName": "诀别书", "singer": "垚老师", "length": 229 }
 ]
