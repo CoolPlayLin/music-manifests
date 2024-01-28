@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@coolplaylin/utilities": "^0.0.2"
+    "@coolplaylin/utilities": "^0.0.2",
+    "prompts": "^2.4.2"
   }
 }
